@@ -5,12 +5,13 @@ Power BI Project for Retail Sales Analysis
 This Power BI dashboard helps analyze Super Store sales, profit, quantity, and delivery performance. Charts and KPI cards make sales trends easier to understand.
 
 🎯 Business Problem
+
 Retail data can be difficult to understand in raw tables. This dashboard brings key sales information together so users can compare regions, products, customer segments, and sales trends in one place.
 
 🧰 Tech Stack
 - Power BI Desktop — Dashboard creation and visualization
-- Power Query — Data cleaning and transformation (if used in the project)
-- DAX — Calculated measures (if used in the project)
+- Power Query — Data cleaning and transformation 
+- DAX — Calculated measures 
   
  Key Features
 - KPI cards for Sales, Profit, Quantity, and Average Delivery
