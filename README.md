@@ -1,16 +1,13 @@
 🛒 Super Store Sales Dashboard
 Power BI Project for Retail Sales Analysis
 📌 Project Overview
-This Power BI dashboard helps analyze Super Store sales, profit, quantity, and delivery performance. It presents important information through charts and KPI cards, making sales trends easier to understand.
-
+This Power BI dashboard helps analyze Super Store sales, profit, quantity, and delivery performance. Charts and KPI cards make sales trends easier to understand.
 🎯 Business Problem
 Retail data can be difficult to understand in raw tables. This dashboard brings key sales information together so users can compare regions, products, customer segments, and sales trends in one place.
-
 🧰 Tech Stack
 - Power BI Desktop — Dashboard creation and visualization
-- Power Query — Data cleaning and transformation, if used in the project
-- DAX — Calculated measures, if used in the project
-- 
+- Power Query — Data cleaning and transformation (if used in the project)
+- DAX — Calculated measures (if used in the project)
 ✨ Key Features
 - KPI cards for Sales, Profit, Quantity, and Average Delivery
 - Sales by region, customer segment, and payment mode
@@ -20,28 +17,25 @@ Retail data can be difficult to understand in raw tables. This dashboard brings 
 - Sales analysis by order date
 - Sales by shipping class
 - Region filter and interactive visuals
-- 
 📊 Key Metrics
-The dashboard currently displays:
 - Sales: 1.57M
 - Profit: 175K
 - Quantity: 22K
 - Average Delivery: 10
 Values are shown as displayed in the dashboard; units and calculation details depend on the report.
-
 💼 Business Benefits
-- Quickly compare sales across regions and states
+- Compare sales across regions and states
 - Identify strong-performing product categories
 - Understand sales trends over time
 - Support data-driven sales discussions
-  
 🖼️ Dashboard Screenshots
+📊 Sales Dashboard
 
-Sales Dashboard(https://github.com/llaaukik/Super-Store-Sales-Dashboard/blob/main/Sales.png)
+📈 Forecasting Dashboard
 
-Forecasting Dashboard(https://github.com/llaaukik/Super-Store-Sales-Dashboard/blob/main/Forecasting.png)
+### 📅 Order Date and State Analysis
 
-Order Date and State Analysis
+![Order Date and State Analysis](https://raw.githubusercontent.com/llaaukik/Super-Store-Sales-Dashboard/main/ORDER-IMAGE-FILENAME.png)
 
 🚀 How to View
 1. Download or clone this repository.
