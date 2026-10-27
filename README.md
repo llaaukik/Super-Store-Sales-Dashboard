@@ -28,21 +28,19 @@ Values are shown as displayed in the dashboard; units and calculation details de
 - Identify strong-performing product categories
 - Understand sales trends over time
 - Support data-driven sales discussions
-🖼️ Dashboard Screenshots
-📊 Sales Dashboard
+ 🖼️ Dashboard Screenshots
+
+ 📊 Sales Dashboard
+![Sales Dashboard](https://raw.githubusercontent.com/llaaukik/Super-Store-Sales-Dashboard/main/Sales.png)
 
 📈 Forecasting Dashboard
+![Forecasting Dashboard](https://raw.githubusercontent.com/llaaukik/Super-Store-Sales-Dashboard/main/Forecasting.png)
 
-### 📅 Order Date and State Analysis
-
-![Order Date and State Analysis](https://raw.githubusercontent.com/llaaukik/Super-Store-Sales-Dashboard/main/ORDER-IMAGE-FILENAME.png)
-
-🚀 How to View
+## 🚀 How to View
 1. Download or clone this repository.
-2. Open Superstore Sales.pbix in Power BI Desktop.
-3. Use the available filters and visuals to explore the report.
-Live Dashboard: Add your public report link here, if available.
-A PBIX file does not run directly as a website. To share an interactive online report, use a supported Power BI publishing option and make sure the data is safe to share publicly.
+2. Open `Superstore Sales.pbix` in Power BI Desktop.
+3. Explore the dashboard using the available filters and visuals.
+
 
 👤 Author
 Laukik Lanke — Computer Engineering Student | Aspiring Data Analyst
