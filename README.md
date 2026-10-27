@@ -36,8 +36,10 @@ Values are shown as displayed in the dashboard; units and calculation details de
 - Support data-driven sales discussions
   
 🖼️ Dashboard Screenshots
+
 Sales Dashboard(https://github.com/llaaukik/Super-Store-Sales-Dashboard/blob/main/Sales.png)
-Forecasting Dashboard()
+
+Forecasting Dashboard(https://github.com/llaaukik/Super-Store-Sales-Dashboard/blob/main/Forecasting.png)
 
 Order Date and State Analysis
 
